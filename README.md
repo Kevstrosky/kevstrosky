@@ -18,7 +18,7 @@
 <li>🖥️: Information Systems Engineering student at University of Sonora</li>
 <li>🎼: I love to play musical instruments</li>
 <li>✈️: My dream basically is travel while i'm working</li>
-<li>📷: Store and film moments with my friends and family and my lovely camera</li>
+<li>📷: Store and film moments with my friends, family and my lovely camera</li>
 <li>🌟: Actually i'm a smiley person (don't trust to my profile pic)</li>
 </ul>
 
