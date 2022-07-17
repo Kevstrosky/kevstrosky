@@ -2,11 +2,11 @@
 
 <h2 align="center">Software developer | Working everyday to be a great software engineer | Big love for explore and try new things | Trying to apply a cool UI/UX design to all my projects</h2>
 
-<p align = "center">
-<a  href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=kevinochoa.dev@gmail.com"  target="_blank"><img  src="https://img.shields.io/badge/-Email-181818?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<p align="center">
 <a href="https://www.linkedin.com/in/kevinochoaguerrero/" target="_blank"><img  src="https://img.shields.io/badge/-LinkedIn-181818?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://kevstrosky.github.io/" target="_blank"><img  src="https://img.shields.io/badge/-My Portfolio-181818?style=for-the-badge"></a>
 </p>
+<p align="center"><b>✉️kevinochoa.dev@gmail.com</b></p>
 
 
 <img align="right" src="https://64.media.tumblr.com/6d7def05f8c5bb43a641f279415706f4/tumblr_nx5p9fHeMR1rn5gv3o1_500.gif" width=320px>
