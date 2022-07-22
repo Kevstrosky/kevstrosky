@@ -36,7 +36,10 @@
 <img  src="https://img.shields.io/badge/-C Sharp-0D1117?style=rounded-square&logo=csharp&logoColor=9b4993">
 <img  src="https://img.shields.io/badge/-HTML5-0D1117?style=rounded-square&logo=html5&logoColor=f06529">
 <img src="https://img.shields.io/badge/-CSS3-0D1117?style=rounded-square&logo=css3&logoColor=2965f1">
+  
+<h2 align="center">Databases I know</h2>
 <img  src="https://img.shields.io/badge/MySQL-0D1117.svg?style=rounded-square&logo=mysql&logoColor=00758F">
+
 
 <h2 align="center">Technologies I know</h2>
 <a  href="#"><img  src="https://img.shields.io/badge/Figma-0D1117.svg?style=rounded-square&logo=figma&logoColor=1abcfe"></a>
