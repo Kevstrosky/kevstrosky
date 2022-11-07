@@ -24,7 +24,7 @@
 
 <h3>I'm currently</h3>
 <ul>
-<li>🧪 Working with the project Sislab: Request System Laboratories for the Department of Chemical Biological Sciences at University of Sonora as the Project Manager </li>
+<li>🧪 Working with the project Sislab: Request System Laboratories for the Department of Chemical Biological Sciences at University of Sonora as developer and the Project Manager </li>
 <br>
 
 <div align="center">
