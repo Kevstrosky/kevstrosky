@@ -1,6 +1,6 @@
-<h1 align="center">Welcome 💚!</h1>
+<h2 align="center">Welcome!</h2>
 
-<h2 align="center">Software developer | Working everyday to be a great software engineer | Big love for explore and try new things | Trying to apply a cool UI/UX design to all my projects</h2>
+<h3 align="center">Software developer | Working everyday to be a great software engineer | Big love for explore and try new things | Trying to apply a cool UI/UX design to all my projects</h3>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/kevinochoaguerrero/" target="_blank"><img  src="https://img.shields.io/badge/-LinkedIn-181818?style=for-the-badge&logo=linkedin&logoColor=white"></a>
@@ -14,7 +14,7 @@
 <h3>About me</h3>
 <ul>
 <li>🤠: Sonora, México</li>
-<li>🚀: 24 years</li>
+<li>🚀: 23 years</li>
 <li>🖥️: Information Systems Engineering student at University of Sonora</li>
 <li>✈️: My dream basically is travel while i'm working</li>
 <li>📷: Store and film moments with my friends, family and my lovely camera</li>
@@ -23,27 +23,17 @@
 
 <h3>I'm currently</h3>
 <ul>
-<li>🧪 Working with the project Sislab: Request System Laboratories for the Department of Chemical Biological Sciences at University of Sonora as developer and the Project Manager </li>
-<br>
+<li>Leader of CSI PRO. A space for development, innovation and research at the University of Sonora.</li>
+<li>Working with the project Sislab: Request System Laboratories for the Department of Chemical Biological Sciences at University of Sonora as developer and the Project Manager </li>
 
 <div align="center">
-<img  alt="Kevin's Top Languages"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevstrosky&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=181818&title_color=20C20E&icon_color=D02929"  height="220"/>
+<img  alt="Kevin's Top Languages"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevstrosky&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=181818&title_color=00FFFF&icon_color=D02929"  height="220"/>
 </div>
+<p><b>Technologies:</b> Java, C#, Javascript, React.js, Three.js, JQuery, JSON, Cypress.js, MySQL, HTML5 and CSS3</p>
+<p><b>Tools:</b> Git/Github/Gitlab, Confluence, Visual Studio, VS Code and Figma</p>
+<p><b>Software development:</b> MVC, UX/UI design, agile methodologies (SCRUM) and project management</p>
+<p><b>Idioms:</b> Native spanish and english B2</p>
 
-<h2 align="center">Programming and Markup Languages I know</h2>
-<img  src="https://img.shields.io/badge/-Javascript-0D1117?style=rounded-square&logo=javascript&logoColor=f7df1e">
-<img  src="https://img.shields.io/badge/-C Sharp-0D1117?style=rounded-square&logo=csharp&logoColor=9b4993">
-<img  src="https://img.shields.io/badge/-HTML5-0D1117?style=rounded-square&logo=html5&logoColor=f06529">
-<img src="https://img.shields.io/badge/-CSS3-0D1117?style=rounded-square&logo=css3&logoColor=2965f1">
-  
-<h2 align="center">Databases I know</h2>
-<img  src="https://img.shields.io/badge/MySQL-0D1117.svg?style=rounded-square&logo=mysql&logoColor=00758F">
-
-
-<h2 align="center">Technologies I know</h2>
-<a  href="#"><img  src="https://img.shields.io/badge/Figma-0D1117.svg?style=rounded-square&logo=figma&logoColor=1abcfe"></a>
-
-
-<h2 align="center">Enviroment, IDEs and Tools</h2>
-<img src="https://img.shields.io/badge/VS-0D1117.svg?style=rounded-square&logo=visualstudiocode&logoColor=5d2b90">
-<img src="https://img.shields.io/badge/VSCode-0D1117.svg?style=rounded-square&logo=visualstudiocode&logoColor=0078d7">
+<div align="right">
+last updated: January 27, 2023
+</div>
